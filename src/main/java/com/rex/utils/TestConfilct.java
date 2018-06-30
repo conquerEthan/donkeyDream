@@ -6,7 +6,7 @@ public class TestConfilct {
 		
 		System.out.println("Hello donkeyDream local2!");
 		System.out.println("Hello donkeyDream fromgit!");
-		
+		System.out.println("Hello donkeyDream hotfix!");
 		
 	}
 	
