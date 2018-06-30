@@ -1,7 +1,5 @@
 package com.rex.test;
 
-import java.util.UUID;
-
 import org.apache.ibatis.session.SqlSession;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -10,7 +8,6 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import com.rex.bean.Department;
-import com.rex.bean.Employee;
 import com.rex.dao.DepartmentMapper;
 import com.rex.dao.EmployeeMapper;
 
